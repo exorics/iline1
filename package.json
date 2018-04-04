@@ -1,0 +1,19 @@
+{
+  "name": "iline1",
+  "version": "1.0.0",
+  "description": "iline1 website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exorics/iline1.git"
+  },
+  "author": "Bright Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exorics/iline1/issues"
+  },
+  "homepage": "https://github.com/exorics/iline1#readme"
+}
